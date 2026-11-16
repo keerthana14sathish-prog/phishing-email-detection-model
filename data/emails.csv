@@ -1,0 +1,41 @@
+email_text,label
+"Urgent: Your account will be suspended. Verify your identity now at http://secure-check.example/login",Phishing
+"Your package delivery failed. Pay the redelivery fee here: http://parcel-check.example/pay",Phishing
+"Security alert: unusual login detected. Confirm your password at http://verify.example/auth",Phishing
+"You have won a prize. Claim your reward immediately at http://claim.example/reward",Phishing
+"Final notice: update your billing details to avoid service interruption: http://billing.example/update",Phishing
+"We could not process your refund. Submit bank details at http://refund.example/form",Phishing
+"Your payroll information needs confirmation. Review it now: http://payroll-check.example",Phishing
+"A document has been shared. Sign in to view it: http://shared-docs.example/login",Phishing
+"Your mailbox is full. Sign in to increase storage: http://mailbox-check.example",Phishing
+"Action required: your subscription expires today. Renew at http://renewal.example",Phishing
+"Your account is blocked. Verify your password immediately at http://account-check.example",Phishing
+"Invoice overdue. Open the payment page: http://invoice-pay.example",Phishing
+"Congratulations winner! Claim your cash prize now at http://winner.example",Phishing
+"Your bank account needs urgent verification. Confirm details at http://bank-secure.example",Phishing
+"Payment failed. Update your card information now at http://payment-update.example",Phishing
+"Unusual activity detected. Login immediately to restore access: http://secure-login.example",Phishing
+"Your tax refund is ready. Enter your information at http://tax-refund.example",Phishing
+"Your account access will expire. Verify credentials at http://access-check.example",Phishing
+"Delivery notice: pay a small fee to receive your package at http://delivery-fee.example",Phishing
+"Immediate action required! Confirm your account details at http://confirm-account.example",Phishing
+"Hi, could you review the project draft and send your feedback by Friday?",Safe
+"Your appointment is confirmed for Tuesday at 10 AM. Please arrive a few minutes early.",Safe
+"The monthly newsletter is available with updates about upcoming events.",Safe
+"Thank you for attending the workshop. The presentation slides are attached.",Safe
+"The support team received your request and will respond during business hours.",Safe
+"Reminder: our department meeting is on Wednesday. Please bring your progress update.",Safe
+"Your library book is due next week. You can renew it through the library website.",Safe
+"The project report is ready. I saved the latest version in the shared team folder.",Safe
+"Thanks for your order. Your receipt is attached for your records.",Safe
+"The maintenance window is planned for Thursday afternoon. No action is required.",Safe
+"Here are the notes from yesterday's class. Let me know if anything needs correction.",Safe
+"Could we schedule a short meeting to discuss the assignment?",Safe
+"Your registration for the college event is confirmed. Thank you for signing up.",Safe
+"The office will remain closed on Monday due to the public holiday.",Safe
+"Please find the meeting agenda attached for your review.",Safe
+"Your application has been received. We will contact you after review.",Safe
+"Thank you for your purchase. Contact customer support if you have questions.",Safe
+"The team lunch is scheduled for Friday at 1 PM. Please let us know if you can attend.",Safe
+"Your password was changed successfully. If this was not you, contact the help desk using the official website.",Safe
+"Class materials for this week are available on the college learning portal.",Safe
